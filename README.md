@@ -39,15 +39,9 @@
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
 
-<!-- ### Most Used Languages:
+### Most Used Languages:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyonix&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&hide=html" />
-</a> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyonix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats:
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duyonix&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true" />
-</a>
-<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duyonix&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
